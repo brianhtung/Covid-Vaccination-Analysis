@@ -2,8 +2,8 @@
 ## Project Proposal: 
 - Project Proposal.pdf
 ## Code: 
-- Project2_data_insight_MZ.ipynb  -- Mingyue Zhou 
 - Project2_data_insight_BT.ipynb  -- Brian Tung
+- Project2_data_insight_MZ.ipynb  -- Mingyue Zhou 
 - Project2_data_insight.ipynb     -- Angelique Iradukunda
 ## Datasets for Analysis: 
 ### Main Datasets: 
